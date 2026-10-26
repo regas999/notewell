@@ -1,0 +1,5 @@
+# GitHub Pages (Jekyll) for the public repo that hosts only these pages.
+# privacy.md is copied from docs/PRIVACY.md at publish time (docs/08-PUBLISHING.md).
+title: Notewell
+description: On-device AI side panel for your Google Keep™ notes
+theme: jekyll-theme-minimal
